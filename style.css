@@ -1,0 +1,26 @@
+body {
+  text-align: center;
+  background-color: antiquewhite;
+}
+
+h1 {
+  color: blueviolet;
+}
+h2 {
+  color: blue;
+}
+button {
+  background-color: rgb(29, 72, 58);
+  color: antiquewhite;
+}
+input {
+  background-color: rgb(180, 103, 103);
+  color: rgb(42, 42, 105);
+}
+::placeholder {
+  color: black;
+}
+#cal {
+  font-size: 25px;
+  color: brown;
+}
